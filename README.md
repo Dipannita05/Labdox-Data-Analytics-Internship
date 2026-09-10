@@ -139,7 +139,6 @@ The project includes a two-page Power BI dashboard presenting competitor intelli
 **Project:** Dharati Dhan Competitor Intelligence Research
 **Role:** Digital Presence, E-Commerce & Dashboard Lead
 **Internship:** Data Analyst Internship — June–July 2026
-**Location:** Ranchi, Jharkhand
 
 This project demonstrates the application of **data analysis, digital research, competitive intelligence, and business visualization** to support data-driven digital growth opportunities.
 
